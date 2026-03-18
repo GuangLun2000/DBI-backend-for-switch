@@ -1,6 +1,7 @@
 # DBI 后端最新版 / DBI Backend for Nintendo Switch
 
 A GUI-based DBI backend for Nintendo Switch that serves NSP/NSZ game files to the DBI installer via USB or type-C.
+
 为 Nintendo Switch 提供 NSP/NSZ 游戏文件传输的 DBI 后端程序，通过 USB 或 type-C 接口连接。
 
 ![image-20260316012502169](README.assets/image-20260316012502169.png)
@@ -8,8 +9,6 @@ A GUI-based DBI backend for Nintendo Switch that serves NSP/NSZ game files to th
 ## 开源作者 / Open Source Author
 
 **Lance CAI** · [https://caihanlin.com/](https://caihanlin.com/)
-
----
 
 ## 致谢 / Credits
 
